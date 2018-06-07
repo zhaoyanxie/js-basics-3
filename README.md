@@ -30,7 +30,7 @@
    `"JavaScript was here!"`
 
 1. Convert the `names` array to a string, with each element separated by a
-   '<br>'. Store it in a new variable called `namesString` e.g. if `names` is
+   '\<br\>'. Store it in a new variable called `namesString` e.g. if `names` is
    `['harry', 'ron', 'dean']` then `namesString` will be `"harry<br>ron<br>dean"`
 
 1. Change the `innerHTML` property of the _first_ `p` tag on the page to
