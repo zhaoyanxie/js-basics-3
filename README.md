@@ -29,4 +29,12 @@
 1. Change the `textContent` property of the _second_ `p` tag on the page to
    `"JavaScript was here!"`
 
+1. Convert the `names` array to a string, with each element separated by a
+   '<br>'. Store it in a new variable called `namesString` e.g. if `names` is
+   `['harry', 'ron', 'dean']` then `namesString` will be `"harry<br>ron<br>dean"`
+
+1. Change the `innerHTML` property of the _first_ `p` tag on the page to
+   `namesString`. What happens when you use `textContent` instead of
+   `innerHTML`?
+
 [mdn-string]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/prototype
