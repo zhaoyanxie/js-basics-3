@@ -1,4 +1,4 @@
-# JS Basics 2
+# JS Basics
 
 - Open the project in Visual Studio Code
 - Start the Live Server
